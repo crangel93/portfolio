@@ -28,14 +28,7 @@ function About(){
           am a web developer from Modesto, California. I specialize in full stack development. I have my associates degree in
           Computer Science from Modesto Junior College and I am currently attending UC Davis coding bootcamp. I am easy to
           work with and willing to put in the extra work to make my projects and freelance work the best.</p>
-        <div className="contact" id="contact" style={{style2}}>
-          <h3>Contact Me</h3>
-          <p>Phone: (209) 678-2653</p>
-          <p>Email:<a href="mailto:christian.j.rangel93@gmail.com" style={{style3}}>christian.j.rangel93@gmail.com</a> LinkedIn:<a href="www.linkedin.com/in/christianjrangel1993" style={{style4}}>LinkedIn</a></p>
-          <p>
-            
-          </p>
-        </div>
+ 
          <img src={modesto} alt="" style={{width:"100%" ,display:"inline"}}/>
       
       
