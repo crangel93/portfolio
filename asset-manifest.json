@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.150c3fdf.css",
+    "main.js": "/portfolio/static/js/main.494dfeb4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profile.png": "/portfolio/static/media/profile.0845863ae65273e45ef7.png",
+    "static/media/modesto.jpg": "/portfolio/static/media/modesto.a4428d1128af3b1914df.jpg",
+    "static/media/horiseon.png": "/portfolio/static/media/horiseon.1ccda35055df312a1935.png",
+    "static/media/runbuddy.png": "/portfolio/static/media/runbuddy.ecb31841c1f3c13aa087.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.043b440e570e0eebb9a6.png",
+    "static/media/covidByCountry.png": "/portfolio/static/media/covidByCountry.7df564871e2e90120f01.png",
+    "static/media/logoFinal.png": "/portfolio/static/media/logoFinal.7ac628f3af9ef05b0339.png",
+    "index.html": "/portfolio/index.html",
+    "main.150c3fdf.css.map": "/portfolio/static/css/main.150c3fdf.css.map",
+    "main.494dfeb4.js.map": "/portfolio/static/js/main.494dfeb4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.150c3fdf.css",
+    "static/js/main.494dfeb4.js"
+  ]
+}
